@@ -185,3 +185,40 @@ footer {
     font-size: 0.707em;
     margin: 5em 0 8em 0
 }
+
+/*--- IMAGES ---*/
+
+img{
+
+ display: block;
+
+ margin: auto;
+
+ max-width: 100%;
+
+}
+
+
+.myGallery
+
+ display: grid;
+
+ grid-gap: 50px;
+
+ grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
+
+.myGallery img
+
+ width: 100%;
+
+
+
+
+position: relative;
+
+right: 50px;
+
+left
+
+top
