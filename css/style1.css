@@ -21,7 +21,7 @@ body {
 }
 
 /*---- TYPOGRAPHY ----*/
-h1, h2 {
+h1, h2 , h4 {
     font-weight: normal;
     color: #1c9dba;
     text-align: center;
@@ -45,6 +45,11 @@ h1 {
 h2 {
     font-size: 1.999em;
     margin: 5em 0 1em 0;
+}
+
+h4 {
+    font-size: 0.1em;
+    margin: 2em;
 }
 
 blockquote {
