@@ -23,7 +23,7 @@ body {
 /*---- TYPOGRAPHY ----*/
 h1, h2 {
     font-weight: normal;
-    color: #8f0040;
+    color: #1c9dba;
     text-align: center;
 
 }
@@ -109,7 +109,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #8f0040;
+    background-color: #1c9dba;
     padding: 1em 0;
     font-size: 0.75em;
 }
