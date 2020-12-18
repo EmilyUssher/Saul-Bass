@@ -1,4 +1,4 @@
-/*------------CSS for Saul Bass Essay version 1  03-12-20--------------*/
+/*------------CSS for Saul Bass Essay all versions--------------*/
 
 /*------ CSS Reset -   -----*/
 
@@ -21,11 +21,15 @@ body {
 }
 
 /*---- TYPOGRAPHY ----*/
-h1, h2 , h4 {
+h1, h2 {
     font-weight: normal;
     color: #1c9dba;
     text-align: center;
-
+}
+h4 {
+    font-weight: normal;
+    color: #000000;
+    text-align: center;
 }
 
 p, blockquote {
